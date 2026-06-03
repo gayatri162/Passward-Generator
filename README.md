@@ -17,7 +17,7 @@ A simple and responsive password generator built with HTML, CSS, and JavaScript.
 2. Open index.html in a browser
 
 ## Live Demo
-file:///Users/gayatri/Desktop/Projects/Passward%20Generator/index.html
+https://gayatri162.github.io/Passward-Generator/
 
 ## Author
 Gayatri
