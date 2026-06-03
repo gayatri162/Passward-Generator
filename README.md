@@ -17,10 +17,10 @@ A simple and responsive password generator built with HTML, CSS, and JavaScript.
 2. Open index.html in a browser
 
 ## 🚀Live Demo
-https://gayatri162.github.io/Passward-Generator/
+[Click here to try it out](https://gayatri162.github.io/Passward-Generator/)
 
 ## Author
 Gayatri
 
 📄License
-This project is licensed under the https://github.com/gayatri162/Passward-Generator/blob/main/LICENSE
+This project is licensed under the [MIT License](https://github.com/gayatri162/Passward-Generator/blob/main/LICENSE)
