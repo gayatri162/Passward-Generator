@@ -2,12 +2,12 @@
 
 A simple and responsive password generator built with HTML, CSS, and JavaScript.
 
-## Features
+## ➡️Features
 - Generate strong random passwords
 - Copy password to clipboard
 - Responsive design
 
-## Technologies Used
+## 💡Technologies Used
 - HTML
 - CSS
 - JavaScript
@@ -16,8 +16,11 @@ A simple and responsive password generator built with HTML, CSS, and JavaScript.
 1. Download the project
 2. Open index.html in a browser
 
-## Live Demo
+## 🚀Live Demo
 https://gayatri162.github.io/Passward-Generator/
 
 ## Author
 Gayatri
+
+📄License
+This project is licensed under the https://github.com/gayatri162/Passward-Generator/blob/main/LICENSE
