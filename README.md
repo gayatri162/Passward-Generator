@@ -22,5 +22,5 @@ A simple and responsive password generator built with HTML, CSS, and JavaScript.
 ## Author
 Gayatri
 
-📄License
+## 📄License
 This project is licensed under the [MIT License](https://github.com/gayatri162/Passward-Generator/blob/main/LICENSE)
