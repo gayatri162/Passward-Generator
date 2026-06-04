@@ -4,7 +4,7 @@ function generatePassword() {
 
     let password = "";
 
-    for (let i = 0; i < 12; i++) {
+    for (let i = 0; i < 10; i++) {
         const randomIndex =
             Math.floor(Math.random() * chars.length);
 
@@ -21,9 +21,9 @@ function generatePassword() {
 }
 
 function checkStrength(password) {
-    if (password.length < 6) {
+    if (password.length < 4) {
         return "Weak";
-    } else if (password.length < 10) {
+    } else if (password.length < 8) {
         return "Medium";
     } else {
         return "Strong";
