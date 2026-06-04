@@ -21,9 +21,9 @@ function generatePassword() {
 }
 
 function checkStrength(password) {
-    if (password.length < 8) {
+    if (password.length < 6) {
         return "Weak";
-    } else if (password.length < 12) {
+    } else if (password.length < 10) {
         return "Medium";
     } else {
         return "Strong";
